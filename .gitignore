@@ -1,0 +1,8 @@
+venv/
+ml-model/venv/
+node_modules/
+__pycache__/
+.env
+dist/
+build/
+*.pyc
